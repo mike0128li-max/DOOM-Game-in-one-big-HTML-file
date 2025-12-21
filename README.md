@@ -9,15 +9,14 @@ This is the original code of the game Doomsday Survival on crazygames.io, which 
 *   **Day & Night Cycle**: Survive through changing times of day—zombies are more dangerous at night!
 *   **Weapons & Store**: Collect money to buy new guns, ammo, health packs, grenades, and a flashlight in the in-game store.
 *   **Multiple Zombies**: Fight different types of zombies, each with unique health and speed.
-*   **Leaderboard**: Save your high score and compete with other players.
+*   **Leaderboard**: Save your highest score and see who's the best.
 *   **Simple Controls**: Easy-to-learn keyboard and mouse controls.
 
 ## How to Play
 
 1.  **Start**: Open the `index.html` file in your web browser (like Chrome or Edge).
 2.  **Enter Your Name**: You will be asked to enter a player name.
-3.  **Choose Mode**: Select **SOLO SURVIVAL** for single-player or **BATTLEFIELD** for multiplayer.
-4.  **Survive**: Use your weapons to kill zombies, collect money, and stay alive as long as possible.
+3.  **Survive**: Use your weapons to kill zombies, collect money, and stay alive as long as possible.
 
 ## Controls
 
@@ -38,4 +37,3 @@ This is the original code of the game Doomsday Survival on crazygames.io, which 
 ## Technical Notes
 
 *   This is a browser-based game. It requires a modern browser with JavaScript enabled.
-*   For the best experience, allow the page to use your pointer (mouse) when asked.
